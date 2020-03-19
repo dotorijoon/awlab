@@ -22,8 +22,8 @@ author_image: "/assets/images/joshua.jpg"
 
 paginate:	5
 
-url: "http://noriter.dev" # the base hostname & protocol for your site
-baseurl: ""
+url: "https://dotorijoon.github.io/awlab/" # the base hostname & protocol for your site
+baseurl: "/AWLAB"
 #used to display twitter cards
 #twitter_handle: '@dirkfabisch'
 
